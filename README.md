@@ -11,3 +11,5 @@
  Optei escolher o Visual Studio Code como editor de texto, pois tenho uma intimidade melhor com ele e acho mais prático por conta de ter uma ligação juntamente com o GitHub Desktop e acaba ficando mais fácil.
 
  A partir do momento em que você cria um repositório no GitHub, ele automaticamente te dá a opção por criar o README, então, basta editá-lo, e sucessivamente tive que apenas criar o index renderizando a frase e dando commit no GitHub.
+
+ É possível verificar o conteúdo do site através da pasta "site" e "index.html". 
